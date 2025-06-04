@@ -294,7 +294,7 @@ forge test -vv
 Before deploying, you need XRP in your wallet to pay for gas fees. Here's how to get them:
 
 ### XRPL Testnet Faucet (Recommended for Testing)
-1. Visit the [XRPL Faucet - XRPL EVM Sidechain Testnet](https://xrpl-evm-xrp-faucet.vercel.app/)
+1. Visit the [XRP Faucet - XRPL EVM Sidechain Testnet](https://xrpl-evm-xrp-faucet.vercel.app/)
 2. Enter your wallet address to receive free testnet XRP
 3. Wait for the transaction to confirm
 
