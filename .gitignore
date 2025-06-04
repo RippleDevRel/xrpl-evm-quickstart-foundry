@@ -1,0 +1,55 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Private keys and sensitive data
+*.key
+*.pem
+private_keys/
+
+# Dependencies
+node_modules/
+lib/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Coverage reports
+coverage/
+lcov.info
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+artifacts/
+typechain/
+typechain-types/
+
+# Local deployment addresses (optional, uncomment if you don't want to track)
+# deployments/localhost/
+# deployments/hardhat/
